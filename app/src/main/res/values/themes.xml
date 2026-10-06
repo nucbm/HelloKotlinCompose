@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema ferestrei, inainte ca interfata Compose sa fie desenata.
+         Culorile si fonturile ecranului vin din MaterialTheme, in cod. -->
+    <style name="Theme.HelloKotlinCompose" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
